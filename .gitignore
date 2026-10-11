@@ -1,0 +1,18 @@
+# Build output
+.gradle/
+build/
+app/.gradle/
+app/build/
+app/app/build/
+app/local.properties
+*.apk
+*.aab
+
+# Not ours / large / personal:
+# private reference material and screenshots
+reference/
+# generated test videos
+testmedia/
+# emulator/phone screenshots and logs
+testshots/
+emulator.log

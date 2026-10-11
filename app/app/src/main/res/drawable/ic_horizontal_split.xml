@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Material Symbols Rounded "horizontal_split" (Apache License 2.0) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="960" android:viewportHeight="960">
+    <group android:translateY="960">
+        <path android:fillColor="@android:color/white" android:pathData="M160-200q-17 0-28.5-11.5T120-240v-160q0-17 11.5-28.5T160-440h640q17 0 28.5 11.5T840-400v160q0 17-11.5 28.5T800-200H160Zm0-320q-17 0-28.5-11.5T120-560q0-17 11.5-28.5T160-600h640q17 0 28.5 11.5T840-560q0 17-11.5 28.5T800-520H160Zm0-160q-17 0-28.5-11.5T120-720q0-17 11.5-28.5T160-760h640q17 0 28.5 11.5T840-720q0 17-11.5 28.5T800-680H160Z" />
+    </group>
+</vector>
